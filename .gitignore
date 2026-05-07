@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Claude
+.claude/
+settings.local.json
+
+# files
+input/
+output/
+sample/
+
+.pdf
